@@ -252,7 +252,7 @@ GameObject:
   - component: {fileID: 1208518502725234971}
   - component: {fileID: 7373659923996138039}
   m_Layer: 7
-  m_Name: Thuoc
+  m_Name: Medicine
   m_TagString: Apple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -2163,7 +2163,7 @@ GameObject:
   m_Component:
   - component: {fileID: 218898278624984769}
   m_Layer: 0
-  m_Name: map2
+  m_Name: Level 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

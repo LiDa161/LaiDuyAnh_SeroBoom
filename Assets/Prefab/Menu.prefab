@@ -425,7 +425,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7708724632997119762}
   m_Layer: 0
-  m_Name: start
+  m_Name: Menu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -1195,7 +1195,7 @@ GameObject:
   m_Component:
   - component: {fileID: 685005917377345277}
   m_Layer: 0
-  m_Name: howto
+  m_Name: Guide
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
